@@ -196,3 +196,4 @@ Loads an image resource from `<gamedir>\reframework\images\<filepath>`.
 
 ### `d2d.Image:size()`
 Returns the width and height of the image in pixels.
+ 
